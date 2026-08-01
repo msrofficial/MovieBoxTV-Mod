@@ -6,6 +6,8 @@
 
   **MovieBox TV Mod APK — install on your TV and use every premium feature for free.**
 
+  > If you find this project useful, please consider giving this repository a **star**.
+
 </div>
 
 ---
@@ -26,7 +28,6 @@ MovieBox TV Mod is a **modded APK** of the popular MovieBox TV app. Install it o
 - Premium icon/badge removed from content cards
 - Update check disabled
 
-> If you find this project useful, please consider giving this repository a **star**.
 
 ## Screenshots
 
