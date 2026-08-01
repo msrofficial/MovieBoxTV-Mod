@@ -57,13 +57,28 @@ MovieBox TV Mod is a **modded APK** of the popular MovieBox TV app. Install it o
 
 <div align="center">
 
-[![Support this project](https://img.shields.io/badge/Support%20this%20project-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.supportkori.com/msrsakibur)
-
 [![Download MovieBox TV Mod Apk (TV Version)](https://img.shields.io/badge/Download_MovieBox_TV_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/msrofficial/MovieBoxTV-Mod/releases/download/1.1.6.0723.03/MovieboxTv-Modded-By-MSR-PatcH.apk)
 
 **[Download For Android Phone](https://github.com/msrofficial/Moviebox-Mod)**
 
 </div>
+
+## Support Me
+
+<div align="center">
+
+[![Support this project](https://img.shields.io/badge/Support%20this%20project-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.supportkori.com/msrsakibur)
+
+*Via Mobile Banking, Net Banking, bKash, Nagad, Upay, CellFin, Cards, etc.*
+
+</div>
+
+| Method | Details |
+| :--- | :--- |
+| **Binance Pay (UID)** | `519710618` |
+| **USDT (TRC20)** | `TMYBNahNhAXfvZZLdMMkFAELdoTJj5ugmQ` |
+| **Bitcoin (BTC)** | `123ix1mqeUhqQu134njsY5dQMJLJbdCisT` |
+| **Litecoin (LTC)** | `LhxkB7v7W3NwPhMYyQ1xXzLFXdytkYKdsP` |
 
 ## Join Community
 
