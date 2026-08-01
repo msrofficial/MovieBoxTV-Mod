@@ -4,7 +4,7 @@
 
   # MovieBox TV Mod
 
-  **The modified TV version of MovieBox TV — optimized for Android TV, Firestick & TV Boxes.**
+  **MovieBox TV Mod APK — install on your TV and use every premium feature for free.**
 
 </div>
 
@@ -12,16 +12,19 @@
 
 ## About
 
-MovieBox TV Mod is a **TV-optimized version** of the popular MovieBox TV streaming application, built specifically for **Android TV, Firestick, TV boxes, and similar devices**. It brings the full entertainment experience to the big screen with an interface designed for **remote navigation** — browse and watch **movies, TV series, anime, and live content** without any subscription.
+MovieBox TV Mod is a **modded APK** of the popular MovieBox TV app. Install it on your **Android TV, Firestick, or TV Box** and unlock the full premium experience — **movies, TV series, anime, live TV, and downloads** — completely free.
 
 ## Mod Features
 
-- **Premium Unlocked** — all premium content accessible for free
-- **New Custom Icon** — redesigned launcher icon
-- **1080p+ Streaming & Download** — high-quality playback and offline downloads
-- **No Ads** — clean, uninterrupted viewing experience
-- **Download & Subtitle Issue Fixed**
-- **TV-Friendly UI** — works smoothly with a remote control
+- Full VIP membership unlocked
+- Custom New Black Themed Icon
+- All Video Quality Unlocked
+- Live TV premium content unlocked
+- Premium downloads unlocked
+- Visitor + account premium flags forced true
+- Membership validity date
+- Premium icon/badge removed from content cards
+- Update check disabled
 
 > If you find this project useful, please consider giving this repository a **star**.
 
@@ -55,7 +58,9 @@ MovieBox TV Mod is a **TV-optimized version** of the popular MovieBox TV streami
 
 [![Support this project](https://img.shields.io/badge/Support%20this%20project-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.supportkori.com/msrsakibur)
 
-[![Download MovieBox TV Mod Apk](https://img.shields.io/badge/Download_MovieBox_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/msrofficial/MovieBoxTV-Mod/releases/download/1.1.6.0723.03/MovieboxTv-Modded-By-MSR-PatcH.apk)
+[![Download MovieBox TV Mod Apk (TV Version)](https://img.shields.io/badge/Download_MovieBox_TV_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/msrofficial/MovieBoxTV-Mod/releases/download/1.1.6.0723.03/MovieboxTv-Modded-By-MSR-PatcH.apk)
+
+**[Download For Android Phone](https://github.com/msrofficial/Moviebox-Mod)**
 
 </div>
 
