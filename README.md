@@ -1,30 +1,48 @@
 <div align="center">
-  <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox Logo">
-  
-  <h2>What is MovieBox TV Mod?</h2>
-  <p>MovieBox TV is a popular third-party streaming application for Android, Windows, and Firestick that allows users to watch and download a vast library of movies, TV series, anime, and live content.</p>
 
-<p><b> Mod features: New Icon, Premium Unlocked,1080p+ streaming and download,No ads</b></p>
-  
-  <p>
-    If you find this project useful, please consider giving this repository a star (⭐).
-  </p>
+  <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox TV Logo">
+
+  # MovieBox TV Mod
+
+  MovieBox TV is a popular third-party streaming application for **Android, Windows, and Firestick** that lets you watch and download a vast library of **movies, TV series, anime, and live content** — completely free.
+
+  ### Mod Features
+  - **Premium Unlocked**
+  - **New Custom Icon**
+  - **1080p+ Streaming & Download**
+  - **No Ads**
+  - **Download & Subtitle Issue Fixed**
+
+  > If you find this project useful, please consider giving this repository a **star**.
+
 </div>
 
 <br>
 
+## Screenshots
+
+<div align="center">
+  <img src="Screenshot_20260801-173642.png" width="32%">
+  <img src="Screenshot_20260801-173626.png" width="32%">
+  <img src="Screenshot_20260801-173619.png" width="32%">
+</div>
+
+<br>
+
+## App Information
+
 <table width="100%">
   <tr>
     <th align="left" width="50%">App Name</th>
-    <th align="center" width="50%">MovieBox Tv Mod</th>
+    <th align="center" width="50%">MovieBox TV Mod</th>
   </tr>
   <tr>
-    <td align="left"><b>App version</b></td>
+    <td align="left"><b>App Version</b></td>
     <td align="center">1.1.6.0723.03</td>
   </tr>
   <tr>
     <td align="left"><b>Requirement</b></td>
-    <td align="center">5.0 and above</td>
+    <td align="center">Android 5.0 and above</td>
   </tr>
   <tr>
     <td align="left"><b>Mod By</b></td>
@@ -39,48 +57,38 @@
     <td align="center">Entertainment</td>
   </tr>
   <tr>
-    <td align="left"><b>Visitors</b></td>
-    <td align="center"><img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/MovieBoxTv-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/></td>
-  </tr>
-  <tr>
-    <td align="left"><b>Last Update</b></td>
-    <td align="center">06 May 2026</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Number of Downloads</b></td>
-    <td align="center"><img src="https://img.shields.io/github/downloads/msrofficial/MovieboxTv-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads"></td>
-  </tr>
-  <tr>
     <td align="left"><b>Price</b></td>
     <td align="center">Free</td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img src="Screenshot_20260507-000411.png" width="48%">
-      <img src="Screenshot_20260507-000620.png" width="48%">
-    </td>
+    <td align="left"><b>Last Update</b></td>
+    <td align="center">01 August 2026</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Visitors</b></td>
+    <td align="center"><img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/MovieBoxTV-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Downloads</b></td>
+    <td align="center"><img src="https://img.shields.io/github/downloads/msrofficial/MovieBoxTV-Mod/total?color=blue&style=for-the-badge&label=" alt="Total Downloads"></td>
   </tr>
 </table>
 
+<br>
+
+## Download
 
 <div align="center">
-<br>
-  
-[![Support this project](https://img.shields.io/badge/Support%20this%20project-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.supportkori.com/msrsakibur)
-  
-  <br>
-  <a href="https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.06/MovieBox_Premium.By.MSRPatcH.custom_folder_mod.apk">
-    <img src="https://img.shields.io/badge/Download_MovieBox _Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MovieBox TV Mod Apk">
-  </a>
-  <br><br>
-  <div>
-  <p> Download And Subtitle issue fix:</p>
-  <img src="Screenshot_20260729-175632.jpg">
-  <br>
-  
 
-## Join Community:
+  [![Support this project](https://img.shields.io/badge/Support%20this%20project-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://www.supportkori.com/msrsakibur)
+
+  [![Download MovieBox TV Mod Apk](https://img.shields.io/badge/Download_MovieBox_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.06/MovieBox_Premium.By.MSRPatcH.custom_folder_mod.apk)
+
+</div>
+
+<br>
+
+## Join Community
 
 <div align="center">
 
@@ -90,5 +98,12 @@
 
 </div>
 
-  
+<br>
+
+<div align="center">
+
+  ### Disclaimer
+
+  This is a **modified version** of MovieBox TV for educational purposes. All content and trademarks belong to their respective owners. Use at your own responsibility.
+
 </div>
